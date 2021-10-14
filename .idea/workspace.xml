@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="586de79b-18a4-4f6a-9a82-c390596326b2" name="Default Changelist" comment="" />
+    <list default="true" id="586de79b-18a4-4f6a-9a82-c390596326b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/weather.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,18 +18,19 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1uzFqO1xbrfGdr3Z8RumVGMxr2D" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/portfolio" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Dell\Desktop\startbootstrap-agency-gh-pages\assets\img\portfolio" />
-      <recent name="C:\Users\Dell\Desktop\startbootstrap-agency-gh-pages\assets\img\team" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\Desktop\startbootstrap-agency-gh-pages\assets\img\portfolio\BI" />
       <recent name="C:\Users\Dell\Desktop\startbootstrap-agency-gh-pages\assets\img\portfolio" />
       <recent name="C:\Users\Dell\Desktop\startbootstrap-agency-gh-pages\assets\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\startbootstrap-agency-gh-pages\assets\img\portfolio" />
+      <recent name="C:\Users\Dell\Desktop\startbootstrap-agency-gh-pages\assets\img\team" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -52,7 +57,8 @@
       <updated>1625660700230</updated>
       <workItem from="1625660702227" duration="820000" />
       <workItem from="1626258746676" duration="1497000" />
-      <workItem from="1626345965288" duration="31435000" />
+      <workItem from="1626345965288" duration="33253000" />
+      <workItem from="1634219897328" duration="2506000" />
     </task>
     <servers />
   </component>
@@ -64,7 +70,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
