@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="586de79b-18a4-4f6a-9a82-c390596326b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/weather.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -20,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -58,7 +57,9 @@
       <workItem from="1625660702227" duration="820000" />
       <workItem from="1626258746676" duration="1497000" />
       <workItem from="1626345965288" duration="33253000" />
-      <workItem from="1634219897328" duration="2506000" />
+      <workItem from="1634219897328" duration="3128000" />
+      <workItem from="1634295028468" duration="20000" />
+      <workItem from="1636121353514" duration="299000" />
     </task>
     <servers />
   </component>
